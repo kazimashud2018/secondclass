@@ -1,0 +1,98 @@
+.background{
+	background:url(../img/pic.jpg)navajowhite;
+	background-repeat:no-repeat;
+	background-size:cover;
+	font-family: 'Baloo Chettan', cursive;
+}
+.container{
+	width: 600px;
+	margin:80px auto;
+}
+.login-section{
+	background-color:black;
+	padding:40px;
+	
+}
+.login-section h2{
+	color: #fff;
+	text-align:center;
+	font-size:  25px;
+	border-bottom: 4px solid #4caf50; 
+	margin-bottom: 50px;
+
+}
+
+.login-section img{
+	width:71px;
+	height:82px;
+	margin:0px auto;
+	display:block;
+
+
+
+}
+
+.from-control{
+	width:100%;
+	height:28px;
+	padding:0px 5px;
+	margin-bottom:10px;
+
+}
+
+.btn{
+	background-color:#E91E63;
+	padding: 5px 24px;
+	border: 1px solid #161616;
+	color: #fff;
+	font-size:16px;
+	text-transform:uppercase;
+	border-radius:12px;
+}
+
+.Registration-section{
+	background-color:black;
+	padding:40px;
+
+}
+.Registration-section h2{
+	color: #fff;
+	text-align:center;
+	font-size:  25px;
+	border-bottom: 4px solid #4caf50; 
+	margin-bottom: 50px;
+	
+}
+
+.Registration-section img{
+	width:71px;
+	height:82px;
+	margin:0px auto;
+	display:block;
+
+
+}
+.Reset-section{
+	background-color:black;
+	padding:40px;
+}
+
+.Reset-section h3{
+    color: #fff;
+	text-align:center;
+	font-size:  25px;
+	border-bottom: 4px solid #4caf50; 
+	margin-bottom: 50px;
+}
+
+.Reset-section p{
+	color: #fff;
+}
+
+.Reset-section img{
+	width:71px;
+	height:82px;
+	margin:0px auto;
+	display:block;
+
+}
